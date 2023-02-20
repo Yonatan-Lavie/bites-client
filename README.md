@@ -1,3 +1,13 @@
+The Bites app is a platform designed to connect users with local pastry and cake shops. It allows users to browse and purchase pastries and cakes online, and have them delivered to their location.  
+
+The app is designed to be user-friendly, with a simple and intuitive interface that allows users to quickly search for and purchase items. Users can browse a wide variety of pastries and cakes, view images and descriptions, and select items for purchase.  
+
+When a user selects an item, the app checks to see if it is available and can be delivered to the user's location. If the item is available, the user can add it to their cart and proceed to checkout. The app uses a payment gateway to securely process transactions, and provides users with a confirmation of their order.  
+
+Once the order is confirmed, the app sends a notification to the pastry or cake shop to begin preparing the order. The shop then delivers the order to the user's location, using the Bites app to track the delivery and ensure that the order is delivered in a timely and efficient manner.  
+
+Overall, the Bites app is designed to provide users with a convenient and reliable way to purchase and receive pastries and cakes. It is user-friendly, secure, and efficient, making it easy for users to find and purchase items, and for pastry and cake shops to manage and fulfill orders  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
